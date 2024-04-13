@@ -25,10 +25,10 @@
 </div>
 
 ##
- <div align="center">
-<img src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-2.gif" align="right">
-</div>
-
+ <div style="display: inline_block"><br>
+        <img  alt="Dani-Js" height="250" width="250"src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-gatinho-digitando-2.gif" align="right">
+    </div>
+    
 <p>Iniciante na área da TI mas me garanto bastante programando com o meu chodozinho que é a linguagem Phyton </p>
 <p>Comecei a estudar o desenvolvimento Web com HTML, CSS e JavaScrip com a ideia de um projeto de Sebo online (amo ler) que logo mais vou disponibilizar por aqui, aguardem... </p>
   </body>
