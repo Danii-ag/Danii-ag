@@ -1,7 +1,7 @@
 <body>
 <h1>  <em> OLÁ, SEJÁ BEM VINDO(A) </em> </h1> 
   
- <div align="center">
+ <div  style="display: inline_block"><br>
 <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTId-3gVUaq3ILD_KEPVMtpD19VOdzpss0Yop6JOigvYKe2TDAp" align="right">
 </div>
 
