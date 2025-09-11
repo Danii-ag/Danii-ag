@@ -29,7 +29,7 @@
         <img  alt="Dani-Js" height="180" width="180"src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" align="right">
     </div>
     
-<p>Iniciante na área da TI mas me garanto bastante programando com o meu chodozinho que é a linguagem Phyton </p>
-<p>Comecei a estudar o desenvolvimento Web com HTML, CSS e JavaScrip com a ideia de um projeto de Sebo online (amo ler) que logo mais vou disponibilizar por aqui, aguardem... </p>
+<p>Entusiasta da área de TI, com foco em Python para programação e desenvolvimento de soluções.</p>
+<p>Atualmente expandindo conhecimentos em Desenvolvimento Web — novos projetos em breve!</p>
   </body>
 -->
