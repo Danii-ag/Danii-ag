@@ -3,7 +3,7 @@
   
 
 
-- 📚 Cursando ADS
+- 🎓ADS
 - 🌱 Estudando HTML; CSS; JavaScript.
 - 👩‍💻 Linguagem de programação Phyton.
 
